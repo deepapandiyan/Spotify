@@ -17,6 +17,7 @@ db_config = {
     'user': 'root',       # Replace with your MySQL username
     'password': 'pandiyan',   # Replace with your MySQL password
     'database': 'spotify_db'       # Replace with your database name
+    
 }
 
 # Connect to the database
