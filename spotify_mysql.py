@@ -14,7 +14,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
 # MySQL Database Connection
 db_config = {
     'host': 'host.docker.internal',
-    # 'host': 'localhost',           # Change to your MySQL host
+    'host': 'localhost',           # Change to your MySQL host
     'user': 'root',       # Replace with your MySQL username
     'password': 'pandiyan',   # Replace with your MySQL password
     'database': 'spotify_db'       # Replace with your database name
