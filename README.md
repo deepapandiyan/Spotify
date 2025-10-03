@@ -70,12 +70,3 @@ docker run -d spotify-app
 - Make sure MySQL is running and accessible.
 - This project is for educational purposes and may require enhancements for production use.
 
-## 📬 Contact
-
-For questions or suggestions, feel free to open an issue or reach out via GitHub.
-
-```
-
----
-
-Would you like me to tailor this README for a specific audience—like recruiters, collaborators, or students?
